@@ -1,0 +1,3 @@
+{"question":"What is Retrieval-Augmented Generation?","expected_topic":"RAG retrieves external passages and uses them as context"}
+{"question":"Does LoRA update every parameter in the base model?","expected_topic":"No; it trains adapter parameters while most base weights remain frozen"}
+{"question":"Why should an AI assistant cite document sources?","expected_topic":"To help users verify supporting passages"}
